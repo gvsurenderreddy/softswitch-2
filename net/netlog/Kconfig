@@ -1,0 +1,5 @@
+config NETLOG
+    tristate "net_log example  module"
+    help
+      Enable example net_log module.
+

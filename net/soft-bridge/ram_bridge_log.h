@@ -1,0 +1,2 @@
+#define MAX_LOG_CNT 1000000
+#define MAX_LOG_LEN 200
